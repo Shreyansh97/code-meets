@@ -1,0 +1,1 @@
+Contains solution of the question http://www.spoj.com/problems/FENTREE/.
